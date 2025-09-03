@@ -2,8 +2,6 @@
 
 This repository contains the code and data used for a spatial econometrics analysis of Airbnb listings.
 
-## Repository Structure
-
 - **pre_processing.ipynb**  
   Notebook for data cleaning, transformation, and preparation of raw inputs.
 
