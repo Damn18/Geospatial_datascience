@@ -1,0 +1,11 @@
+numpy
+pandas
+geopandas
+matplotlib
+statsmodels
+patsy
+shapely
+osmnx
+esda
+pysal
+spreg
